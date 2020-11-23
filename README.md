@@ -43,11 +43,11 @@ Hi, I'm [Igor Dias](https://igordiasth.dev/), a Web Developer 🚀 from Brazil, 
 <br />
 <br />
 
-
-### Stats:
+### Stats
+<details>
   <img align:"left" alt="Igorth's Github Stats" src="https://github-readme-stats.igorth.vercel.app/api?username=Igorth&show_icons=true&hide_border=true" /> 
 
-
+</details>
 
 [website]: https://igordiasth.dev
 [instagram]: https://instagram.com/uaiboraviajar
