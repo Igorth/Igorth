@@ -42,9 +42,8 @@ Hi, I'm [Igor Dias](https://igordiasth.dev/), a Web Developer 🚀 from Brazil, 
 
 <br />
 <br />
-
-### Stats
 <details>
+  <summary>:zap: GitHub Stats</summary>
   <img align:"left" alt="Igorth's Github Stats" src="https://github-readme-stats.igorth.vercel.app/api?username=Igorth&show_icons=true&hide_border=true" /> 
 
 </details>
