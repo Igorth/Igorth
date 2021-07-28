@@ -2,14 +2,14 @@
 
 <br />
 
-Hi, I'm [Igor Dias](https://igordiasth.dev/), a Web Developer 🚀 from Brazil, but now I'm living in Canada.Beside's programming, I enjoy cook and play video game.
+Hi, I'm [Igor Dias](https://igordiasth.dev/), a Quality Assurance Enginner 🚀 from Brazil, but now I'm living in Canada. Beside's programming, I enjoy cook and play video game.
 
   <img align="right" alt="GIF" src="https://github.com/Igorth/Igorth/blob/master/code.gif" width="500" height="280" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m looking for an opportunity as a Quality Assurance Engineer;
-- 🌱 I’m currently learning Selenium, JUnit, Java;
+- 🌱 I’m currently learning BDD, Selenium, JUnit, Java;
 - 📫 How to reach me: [igordiasth@gmail.com];
 - 📝[Resume](https://drive.google.com/file/d/1ClgHG8TijP7GOGKwkf6LSwQpFqah3UbD/view)
 
