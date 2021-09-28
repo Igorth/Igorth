@@ -22,8 +22,9 @@ Hi, I'm [Igor Dias](https://igordiasth.dev/), a Quality Assurance Enginner 🚀 
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorth&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorth&hide=jupyter notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
+</p>
 
 
 <br />
