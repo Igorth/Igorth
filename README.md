@@ -8,7 +8,7 @@
 
 Hi, I'm [Igor Dias](https://igordiasth.dev/), a Quality Assurance Enginner 🚀 from Brazil, but now I'm living in Canada. Beside's programming, I enjoy cook and play Magic.
 
-<img align="right" alt="GIF" src="https://github.com/Igorth/Igorth/blob/master/code.gif" width="500" height="280" />
+<img align="right" alt="GIF" src="https://github.com/Igorth/Igorth/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 **Talking about Personal Stuffs:**
 
