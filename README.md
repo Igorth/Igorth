@@ -15,7 +15,7 @@ Hi, I'm [Igor Dias](https://igordiasth.dev/), a Quality Assurance Enginner 🚀 
 - 👨🏽‍💻 I’m looking for an opportunity as a Software Quality Assurance Engineer;
 - 🌱 I’m currently learning BDD, Selenium, JUnit, Java;
 - 📫 How to reach me: [igordiasth@gmail.com];
-- 📝 [Resume](https://drive.google.com/file/d/14wUPJh-qocdJVOAF_IfLKtz0Of1wFOBl/view)
+- 📝 [Resume](https://drive.google.com/file/d/190VZt2nN2mAjX68yZSohiTmthjwhqvJ3/view)
 <br />
 
 📈 **My GitHub Stats:**
