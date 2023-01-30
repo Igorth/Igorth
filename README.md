@@ -12,10 +12,10 @@ Hi, I'm [Igor Dias](https://igordiasth.dev/), a Quality Assurance Enginner 🚀 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m looking for an opportunity as a Software Quality Assurance Engineer;
-- 🌱 I’m currently learning BDD, Selenium, JUnit, Java;
+- 👨🏽‍💻 I’m looking for an opportunity as a Software Quality Assurance Engineer in the Game Industry;
+- 🌱 I’m currently learning Unity, C#, Unreal;
 - 📫 How to reach me: [igordiasth@gmail.com];
-- 📝 [Resume](https://drive.google.com/file/d/190VZt2nN2mAjX68yZSohiTmthjwhqvJ3/view)
+- 📝 [Resume](https://drive.google.com/file/d/1SDQxBMqEkj5lkJFeTx_ApfheEwM2RgWH/view)
 <br />
 
 📈 **My GitHub Stats:**
