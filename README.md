@@ -12,8 +12,8 @@ Hi, I'm [Igor Dias](https://igordiasth.dev/), a Quality Assurance Enginner 🚀 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m looking for an opportunity as a Software Quality Assurance Engineer in the Game Industry;
-- 🌱 I’m currently learning Unity, C#, Unreal;
+- 👨🏽‍💻 I’m looking for an opportunity as a Software Engineer;
+- 🌱 I’m currently learning JavaScript and React;
 - 📫 How to reach me: [igordiasth@gmail.com];
 - 📝 [Resume](https://drive.google.com/file/d/14ytiVc3xEW6DNtcxA4F2xpFNSaLgy8sd/view)
 <br />
@@ -22,7 +22,6 @@ Hi, I'm [Igor Dias](https://igordiasth.dev/), a Quality Assurance Enginner 🚀 
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorth&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorth&hide=jupyter notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 </p>
 
