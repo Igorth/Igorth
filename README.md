@@ -6,16 +6,17 @@
 
 <br />
 
-Hi, I'm [Igor Dias](https://igordiasth.dev/), a Quality Assurance Enginner 🚀 from Brazil, but now I'm living in Canada. Beside's programming, I enjoy cook and play Magic.
+Hi, I'm [Igor Dias](https://igordiasth.dev/)  🚀, a Quality Assurance Analyst I have over 3 years of experience in quality assurance and have developed a sharp eye for software quality and thorough testing procedures. 
+Besides programming, I enjoy cooking and playing Magic.
 
 <img align="right" alt="GIF" src="https://github.com/Igorth/Igorth/blob/master/coding.gif?raw=true" width="408" height="318" />
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m looking for an opportunity as a Software Engineer;
-- 🌱 I’m currently learning JavaScript and React;
+- 👨🏽‍💻 I’m looking for an opportunity as a Tester Automation ;
+- 🌱 I’m currently learning Playwright and React;
 - 📫 How to reach me: [igordiasth@gmail.com];
-- 📝 [Resume](https://drive.google.com/file/d/14ytiVc3xEW6DNtcxA4F2xpFNSaLgy8sd/view)
+- 📝 [Resume](https://drive.google.com/file/d/1yUTZoqvehDcWMcR7o40O3539SWC_H-cd/view)
 <br />
 
 📈 **My GitHub Stats:**
