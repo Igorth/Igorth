@@ -2,30 +2,49 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/igordiasth)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://igordiasth.dev)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/uaiboraviajar/)
 
 <br />
 
-Hi, I'm [Igor Dias](https://igordiasth.dev/)  🚀, a Quality Assurance Analyst I have over 3 years of experience in quality assurance and have developed a sharp eye for software quality and thorough testing procedures. 
-Besides programming, I enjoy cooking and playing Magic.
+Hi, I'm [Igor Dias](https://igordiasth.dev/)  🚀, a Cybersecurity professional with a background in Quality Assurance, Development, and Identity & Access Management (IAM). Currently focusing on Digital Privacy & Trust and IAM solutions with tools like Okta, SailPoint, and Entra ID.
+
+## Objective
+My goal is to transition into the cybersecurity field, leveraging my experience in IAM, automation, and testing to grow into roles such as SOC Analyst, IAM Security Engineer, or Detection Engineer.
+
+## Skills
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Security Operation Center + Honeynet in Azure          | <a href="https://google.com">SOC + Honeynet in Azure</a>|
 
 <img align="right" alt="GIF" src="https://github.com/Igorth/Igorth/blob/master/coding.gif?raw=true" width="408" height="318" />
   
-**Talking about Personal Stuff:**
+## Tools
 
-- 👨🏽‍💻 I’m looking for an opportunity as a Tester Automation ;
-- 🌱 I’m currently learning Playwright and React;
-- 📫 How to reach me: [igordiasth@gmail.com];
-- 📝 [Resume](https://drive.google.com/file/d/1yUTZoqvehDcWMcR7o40O3539SWC_H-cd/view)
-<br />
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
 
-📈 **My GitHub Stats:**
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorth&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-</p>
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Certified_Professional_PingOne_Advanced_Identity_Cloud-FF0000?&style=for-the-badge&logo=PingIdentity&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Security%2C_Compliance_%26_Identity_Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-SailPoint_Identity_Security_Professional_Credential-0C2340?&style=for-the-badge&logo=SailPoint&logoColor=white" />
+</div>
 
+## Projects
+- SOC + Honeynet in Azure
 
 <br />
 <br />
