@@ -13,7 +13,7 @@ My goal is to transition into the cybersecurity field, leveraging my experience 
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Operation Center + Honeynet in Azure          | <a href="https://google.com">SOC + Honeynet in Azure</a>|
+| Security Operation Center + Honeynet in Azure          | <a href="https://github.com/Igorth/soc-honeynet-azure">SOC + Honeynet in Azure</a>|
 
 <img align="right" alt="GIF" src="https://github.com/Igorth/Igorth/blob/master/coding.gif?raw=true" width="408" height="318" />
   
