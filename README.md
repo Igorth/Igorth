@@ -12,8 +12,9 @@ My goal is to transition into the cybersecurity field, leveraging my experience 
 
 ## Skills
 | Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+|-----------------------------------------------         |----------------------------                                                       |
 | Security Operation Center + Honeynet in Azure          | <a href="https://github.com/Igorth/soc-honeynet-azure">SOC + Honeynet in Azure</a>|
+| pfSense Firewall Lab                                   | <a href="https://github.com/Igorth/pfsense-lab/blob/main/README.md"> pfSense Firewall |
 
 <img align="right" alt="GIF" src="https://github.com/Igorth/Igorth/blob/master/coding.gif?raw=true" width="408" height="318" />
   
@@ -45,6 +46,7 @@ My goal is to transition into the cybersecurity field, leveraging my experience 
 
 ## Projects
 - SOC + Honeynet in Azure
+- pfSense Firewall Lab
 
 <br />
 <br />
